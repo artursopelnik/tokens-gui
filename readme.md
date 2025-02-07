@@ -1,6 +1,6 @@
 # Tokens GUI
 
-This example shows how to use jsonparser-cli to load tokens from style-dictionary into a GUI.
+This example shows how to use [jsoneditor-cli](https://github.com/artursopelnik/jsoneditor-cli) to load tokens from [style-dictionary](https://amzn.github.io/style-dictionary/) into a GUI.
 
 <img src="preview.png" alt="JSONEditor-CLI" width="600"/>
 
